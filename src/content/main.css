@@ -1,0 +1,6 @@
+.Multiprocess_Enable_enable{
+  list-style-image: url("chrome://Multiprocess_Enable/content/config-on-19.png");
+}
+.Multiprocess_Enable_disable{
+  list-style-image: url("chrome://Multiprocess_Enable/content/config-off-19.png");
+}

@@ -1,0 +1,9 @@
+<overlay id="Multiprocess_Enable-browser-overlay"
+  xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script type="application/x-javascript" src="chrome://Multiprocess_Enable/content/main.js"/>
+  <toolbarpalette id="BrowserToolbarPalette">
+ <toolbarbutton id="Multiprocess_Enable_btn" class='Multiprocess_Enable_enable' type="button" label="Multiprocess enable" oncommand="Multiprocess_Enable_entensionEnableSwitch()" />
+   <!-- More buttons here. -->
+  </toolbarpalette>
+  <!-- More overlay stuff. -->
+</overlay>

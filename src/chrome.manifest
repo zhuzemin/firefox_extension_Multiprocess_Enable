@@ -1,0 +1,3 @@
+content Multiprocess_Enable content/
+style chrome://Multiprocess_Enable/content/main.xul chrome://Multiprocess_Enable/content/main.css
+overlay chrome://browser/content/browser.xul chrome://Multiprocess_Enable/content/main.xul 
